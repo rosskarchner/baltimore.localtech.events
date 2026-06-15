@@ -1,0 +1,11 @@
+name: Baltimore Node Makerspace
+active: true
+website: https://www.meetup.com/BaltimoreNode/
+ical: https://www.meetup.com/BaltimoreNode/events/ical/
+categories:
+- hardware
+- open-source-community
+- communities
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

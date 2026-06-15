@@ -1,0 +1,132 @@
+{
+  "ai": {
+    "slug": "ai",
+    "name": "AI & Machine Learning",
+    "description": "Artificial intelligence, machine learning, and data science events"
+  },
+  "apple-technologies": {
+    "slug": "apple-technologies",
+    "name": "Apple Technologies",
+    "description": "macOS, iOS, Swift, and the Apple platform ecosystem"
+  },
+  "career-and-professional-development": {
+    "slug": "career-and-professional-development",
+    "name": "Career & Professional Development",
+    "description": "Career advancement, professional skills, and personal development"
+  },
+  "cloud": {
+    "slug": "cloud",
+    "name": "Cloud Computing",
+    "description": "Cloud infrastructure, platforms, and services"
+  },
+  "communities": {
+    "slug": "communities",
+    "name": "Communities & Groups",
+    "description": "Tech community groups, meetups, and networking events"
+  },
+  "conferences": {
+    "slug": "conferences",
+    "name": "Conferences & Symposiums",
+    "description": "Large-scale conferences, symposiums, and industry gatherings"
+  },
+  "coworking": {
+    "slug": "coworking",
+    "name": "Coworking & Spaces",
+    "description": "Coworking spaces, makerspaces, and collaborative work environments"
+  },
+  "crypto": {
+    "slug": "crypto",
+    "name": "Blockchain & Crypto",
+    "description": "Cryptocurrency, blockchain technology, and Web3 events"
+  },
+  "cybersecurity": {
+    "slug": "cybersecurity",
+    "name": "Cybersecurity",
+    "description": "Information security, network security, and privacy events"
+  },
+  "data": {
+    "slug": "data",
+    "name": "Data & Analytics",
+    "description": "Big data, analytics, databases, and data engineering"
+  },
+  "gaming": {
+    "slug": "gaming",
+    "name": "Gaming & Interactive Media",
+    "description": "Game development, interactive design, and gaming industry events"
+  },
+  "govtech": {
+    "slug": "govtech",
+    "name": "Government Technology",
+    "description": "Government technology, civic tech, digital services, and public sector innovation events"
+  },
+  "hardware": {
+    "slug": "hardware",
+    "name": "Hardware & IoT",
+    "description": "Hardware development, embedded systems, and Internet of Things"
+  },
+  "legal-tech": {
+    "slug": "legal-tech",
+    "name": "Legal Tech",
+    "description": "Legal technology, law and technology intersection, and legal innovation events"
+  },
+  "microsoft": {
+    "slug": "microsoft",
+    "name": "Microsoft Technologies",
+    "description": "Microsoft platforms, .NET, Azure, and related technologies"
+  },
+  "mobile": {
+    "slug": "mobile",
+    "name": "Mobile Development",
+    "description": "iOS, Android, and cross-platform mobile app development"
+  },
+  "open-source-community": {
+    "slug": "open-source-community",
+    "name": "Open Source Community",
+    "description": "Open source projects, contributions, and community initiatives"
+  },
+  "programming-languages": {
+    "slug": "programming-languages",
+    "name": "Programming Languages",
+    "description": "Language-specific meetups and discussions for Python, JavaScript, Rust, Go, and more"
+  },
+  "regional-organizations": {
+    "slug": "regional-organizations",
+    "name": "Regional Organizations",
+    "description": "Regional tech organizations, nonprofits, and associations"
+  },
+  "social": {
+    "slug": "social",
+    "name": "Social & Networking",
+    "description": "Social networking events, happy hours, and casual tech gatherings"
+  },
+  "software-development": {
+    "slug": "software-development",
+    "name": "Software Development",
+    "description": "General software engineering, development practices, and architecture"
+  },
+  "startups": {
+    "slug": "startups",
+    "name": "Startups & Entrepreneurship",
+    "description": "Startup development, fundraising, pitching, and business growth"
+  },
+  "technology-and-media": {
+    "slug": "technology-and-media",
+    "name": "Technology & Media",
+    "description": "Technology journalism, media production, digital content, and broadcasting events"
+  },
+  "training": {
+    "slug": "training",
+    "name": "Training & Workshops",
+    "description": "Educational workshops, training sessions, and skills development"
+  },
+  "ux-design": {
+    "slug": "ux-design",
+    "name": "UX & Design",
+    "description": "User experience, user interface design, and product design"
+  },
+  "vendor-conferences": {
+    "slug": "vendor-conferences",
+    "name": "Vendor Conferences",
+    "description": "Company-sponsored conferences, product launches, and vendor events"
+  }
+}

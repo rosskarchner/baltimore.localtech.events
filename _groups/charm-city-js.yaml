@@ -1,0 +1,11 @@
+# feed broken 2026-06-14: HTTP 404
+name: Charm City JS
+active: false
+website: https://www.meetup.com/charm-city-js/
+ical: https://www.meetup.com/charm-city-js/events/ical/
+categories:
+- programming-languages
+- software-development
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

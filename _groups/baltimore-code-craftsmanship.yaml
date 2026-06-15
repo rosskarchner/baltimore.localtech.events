@@ -1,0 +1,10 @@
+name: Baltimore Code Craftsmanship
+active: true
+website: https://www.meetup.com/baltimore-code-craftsmanship/
+ical: https://www.meetup.com/baltimore-code-craftsmanship/events/ical/
+categories:
+- software-development
+- programming-languages
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

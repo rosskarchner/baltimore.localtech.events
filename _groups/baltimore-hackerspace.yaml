@@ -1,0 +1,11 @@
+name: Baltimore Hackerspace
+active: true
+website: https://www.meetup.com/baltimore-hackerspace/
+ical: https://www.meetup.com/baltimore-hackerspace/events/ical/
+categories:
+- hardware
+- open-source-community
+- cybersecurity
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

@@ -1,0 +1,11 @@
+# feed broken 2026-06-14: HTTP 404
+name: Baltimore Women in Tech
+active: false
+website: https://www.meetup.com/baltimore-women-in-tech/
+ical: https://www.meetup.com/baltimore-women-in-tech/events/ical/
+categories:
+- communities
+- career-and-professional-development
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

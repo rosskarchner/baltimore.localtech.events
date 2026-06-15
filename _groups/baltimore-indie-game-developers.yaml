@@ -1,0 +1,11 @@
+name: Baltimore Indie Game Developers Group
+active: true
+website: https://www.meetup.com/baltimore-indie-game-developers-group/
+ical: https://www.meetup.com/baltimore-indie-game-developers-group/events/ical/
+categories:
+- gaming
+- software-development
+- programming-languages
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

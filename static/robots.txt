@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baltimore.localtech.events/sitemap.xml

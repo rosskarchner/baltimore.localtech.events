@@ -1,0 +1,11 @@
+# feed broken 2026-06-14: HTTP 404
+name: Baltimore Unity Game Developers (BUGS)
+active: false
+website: https://www.meetup.com/baltimore-unity-game-developers/
+ical: https://www.meetup.com/baltimore-unity-game-developers/events/ical/
+categories:
+- gaming
+- software-development
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

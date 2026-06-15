@@ -1,0 +1,11 @@
+name: The Baltimore Washington Tech Meetup
+active: true
+website: https://www.meetup.com/bwtech/
+ical: https://www.meetup.com/bwtech/events/ical/
+categories:
+- software-development
+- communities
+- career-and-professional-development
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

@@ -1,0 +1,12 @@
+title: 'Baltimore Code and Coffee'
+date: '2026-06-06'
+time: '09:00'
+url: 'https://www.meetup.com/baltimore-code-and-coffee/'
+location: 'Spro Coffee, 851 W 36th St, Baltimore, MD 21211'
+cost: 'Free'
+description: 'A casual, recurring meetup where developers of all skill levels gather to work on personal projects, learn new technologies, and connect with the local Baltimore tech community over coffee. Bring a laptop and whatever you are working on.'
+categories:
+  - software-development
+  - communities
+  - social
+rrule: 'FREQ=WEEKLY;BYDAY=SA'

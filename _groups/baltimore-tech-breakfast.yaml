@@ -1,0 +1,11 @@
+# feed broken 2026-06-14: HTTP 404
+name: Baltimore Tech Breakfast
+active: false
+website: https://www.meetup.com/baltimore-tech-breakfast/
+ical: https://www.meetup.com/baltimore-tech-breakfast/events/ical/
+categories:
+- startups
+- communities
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

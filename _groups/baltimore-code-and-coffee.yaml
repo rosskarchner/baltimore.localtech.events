@@ -1,0 +1,10 @@
+name: Baltimore Code and Coffee
+active: true
+website: https://www.meetup.com/baltimore-code-and-coffee/
+ical: https://www.meetup.com/baltimore-code-and-coffee/events/ical/
+categories:
+- software-development
+- communities
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

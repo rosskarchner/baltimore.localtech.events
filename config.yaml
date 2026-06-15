@@ -1,0 +1,16 @@
+# Baltimore, MD Tech Events Configuration
+site_name: "Baltimore, MD Tech Events"
+tagline: Technology conferences and meetups in and around Baltimore, MD
+base_url: https://baltimore.localtech.events
+add_events_link: https://baltimore.localtech.events/edit/submit-event.html
+newsletter_signup_link: https://newsletter.baltimore.localtech.events/
+
+timezone: "US/Eastern"
+
+location: "Baltimore, MD"
+max_distance_miles: 40
+
+github_client_id: ""
+oauth_callback_endpoint: "https://add.baltimore.localtech.events/oauth/callback"
+github_sponsors_token: ""
+dynamodb_table: "BaltimoreTechEvents"

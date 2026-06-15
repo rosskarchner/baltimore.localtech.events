@@ -1,0 +1,10 @@
+# feed broken 2026-06-14: HTTP 404
+name: UXPA Baltimore
+active: false
+website: https://www.meetup.com/uxpa-baltimore/
+ical: https://www.meetup.com/uxpa-baltimore/events/ical/
+categories:
+- ux-design
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false
